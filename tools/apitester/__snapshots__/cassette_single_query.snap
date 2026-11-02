@@ -5285,6 +5285,7 @@
         "ALSA-2026:69125",
         "ALSA-2026:80511",
         "ALSA-2026:92368",
+        "SUSE-SU-2026:4954-1",
         "openSUSE-SU-2026:11230-1"
       ],
       "database_specific": "<Any value>",
@@ -5537,7 +5538,7 @@
       "aliases": ["CURL-CVE-2026-18924"],
       "modified": "<RFC3339 date with the year 2026>",
       "published": "2026-09-06T17:47:27.820Z",
-      "related": ["openSUSE-SU-2026:11696-1"],
+      "related": ["SUSE-SU-2026:4954-1", "openSUSE-SU-2026:11696-1"],
       "database_specific": "<Any value>",
       "references": [
         {
@@ -5703,7 +5704,7 @@
       "aliases": ["CURL-CVE-2026-19931"],
       "modified": "<RFC3339 date with the year 2026>",
       "published": "2026-09-06T17:47:43.523Z",
-      "related": ["openSUSE-SU-2026:11696-1"],
+      "related": ["SUSE-SU-2026:4954-1", "openSUSE-SU-2026:11696-1"],
       "database_specific": "<Any value>",
       "references": [
         {
@@ -6768,7 +6769,7 @@
       "aliases": ["CURL-CVE-2026-82209"],
       "modified": "<RFC3339 date with the year 2026>",
       "published": "2026-09-06T17:49:35.050Z",
-      "related": ["openSUSE-SU-2026:11696-1"],
+      "related": ["SUSE-SU-2026:4954-1", "openSUSE-SU-2026:11696-1"],
       "database_specific": "<Any value>",
       "references": [
         {
@@ -7212,6 +7213,7 @@
         "ALSA-2026:69125",
         "ALSA-2026:92368",
         "ALSA-2026:92907",
+        "SUSE-SU-2026:4954-1",
         "openSUSE-SU-2026:11230-1"
       ],
       "database_specific": "<Any value>",
